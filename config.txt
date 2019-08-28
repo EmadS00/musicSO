@@ -1,6 +1,6 @@
 owner=616060814511702047
 prefix=S
-game=play
+game=Emad
 stayinchannel=true
 songinstatus=false
-token=NjE2MDYwODE0NTExNzAyMDQ3.XWXFpg.mxXaOTaYYxj59Xh9O5x7beibLbM
+token=NjE2MDYwODE0NTExNzAyMDQ3.XWXHYg.YK5HOQ9OLIulIuMDntRVdyPqv50
